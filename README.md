@@ -1,2 +1,2 @@
 # DMOJ Submissions
-All working DMOJ submissions I have submitted
+All of my working DMOJ submissions
